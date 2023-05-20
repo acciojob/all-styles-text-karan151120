@@ -1,2 +1,14 @@
+h1{
+	color:white;
+}
+div{
+	width:200px;
+	border-style: solid;
+	border-left-color: green;
+	background-color:purple;
+	border-left-width:5px;
+	padding:10px;
+	font-size:20px;
+}
 
 /* Your CSS Code here. */
