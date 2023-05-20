@@ -1,5 +1,6 @@
 h1{
-	color:white;
+	color:rgb(255,255,255);
+	font-size:20px;
 }
 div{
 	width:200px;
@@ -8,7 +9,7 @@ div{
 	background-color:purple;
 	border-left-width:5px;
 	padding:10px;
-	font-size:20px;
+	
 }
 
 /* Your CSS Code here. */
