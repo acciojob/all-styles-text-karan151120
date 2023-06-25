@@ -1,14 +1,14 @@
-h1{
-	color:rgb(255,255,255);
-	font-size:20px;
+.heading {
+	color: white;
+	font-size: 20px;
 }
-div{
-	width:200px;
+.main {
+	width: 200px;
 	border-style: solid;
 	border-left-color: green;
-	background-color:purple;
-	border-left-width:5px;
-	padding:10px;
+	background-color: purple;
+	border-left-width: 5px;
+	padding: 10px;
 	
 }
 
